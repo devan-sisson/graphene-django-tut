@@ -1,0 +1,12 @@
+{
+  "name": "cookbook",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "migrate": "python ./manage.py migrate",
+    "makemigrations": "python ./manage.py makemigrations",
+    "start": "python ./manage.py runserver"
+  },
+  "author": "",
+  "license": "ISC"
+}
